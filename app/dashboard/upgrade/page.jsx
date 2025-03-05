@@ -18,7 +18,7 @@ function UpgradePage() {
             <li>✅ Create 3 Free Mock Interviews</li>
             <li>✅ Unlimited Retake Interview</li>
             <li>❌ Practice Question</li>
-            <li>❌ Tubeguruji.Com Exclusive App Access</li>
+            <li>❌ Mallesh's.Com Exclusive App Access</li>
             <li>❌ Email Support</li>
           </ul>
           <button className="mt-4 px-4 py-2 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400">
@@ -34,7 +34,7 @@ function UpgradePage() {
             <li>✅ Create 3 Free Mock Interviews</li>
             <li>✅ Unlimited Retake Interview</li>
             <li>✅ Practice Question</li>
-            <li>✅ Tubeguruji.Com Exclusive App Access</li>
+            <li>✅ Mallesh's.Com Exclusive App Access</li>
             <li>✅ Email Support</li>
           </ul>
           <button className="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
